@@ -1,3 +1,4 @@
 rootProject.name = 'cloudcontracts'
 include 'server'
+include 'client'
 
